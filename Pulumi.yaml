@@ -1,0 +1,6 @@
+name: azure-fsharp
+runtime: dotnet
+template:
+  config:
+    azure:environment:
+      default: public
